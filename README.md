@@ -1,2 +1,0 @@
-# nijatt.github.io
-PhysicsApp 
